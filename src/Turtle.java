@@ -6,5 +6,6 @@ public class Turtle {
     public Turtle(String name, int age) {
         this.name = name;
         this.age = age;
+        System.out.println("Name " + name + ", age " + age);
     }
 }
