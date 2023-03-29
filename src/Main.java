@@ -4,7 +4,6 @@ public class Main {
 
         Dog dog = new Dog("Max", 4);
         Cat cat = new Cat("Kicia", 6);
-        Turtle turtle = new Turtle("Tom", 35);
         Pig pig = new Pig("pigg", 7);
 
         dog.eat();
